@@ -1,4 +1,4 @@
-# Alex Ruco | Web Portfolio
+# Web Portfolio
 
 This repository serves as an overview of web projects I have contributed to. 
 
