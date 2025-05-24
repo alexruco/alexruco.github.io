@@ -2,7 +2,7 @@
 
 This repository serves as an overview of web projects I have contributed to. 
 
-My work includes strategic and technical SEO, analytics implementation, and website management.
+My work includes strategic and technical SEO, website audits, analytics implementation, plugins and themes development, and website management.
 
 Below is a list of websites I have worked on:
 
