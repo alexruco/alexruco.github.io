@@ -21,7 +21,7 @@ Below is a list of websites I have worked on:
 - [Hospital Cruz Vermelha](https://hospitalcruzvermelha.pt)
 - [Hospital Amadora/Sintra](https://hff.min-saude.pt)
 - [Movilges IT Consulting](https://movilges-itconsulting.com)
-- [Suittest](https://suittest.com)
+- [suittest](https://suittest.com)
 - [Fórum Saúde Séc. XXI](https://forumsaudexxi.pt/)
 - [Cascais International Health Forum](https://cascaisinternationalhealthforum.com)
 
