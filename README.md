@@ -22,7 +22,7 @@ Below is a list of websites I have worked on:
 - [Hospital Amadora/Sintra](https://hff.min-saude.pt)
 - [Movilges IT Consulting](https://movilges-itconsulting.com)
 - [Suittest](https://suittest.com)
-- [Fórum Saúde Séc. XXI]([https://forumsaudesecxxi.pt])
+- [Fórum Saúde Séc. XXI](https://forumsaudexxi.pt/)
 - [Cascais International Health Forum](https://cascaisinternationalhealthforum.com)
 
 ---
