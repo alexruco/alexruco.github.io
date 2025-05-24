@@ -7,7 +7,7 @@ My work includes strategic and technical SEO, website audits, analytics implemen
 Below is a list of websites I have worked on:
 
 - [Diário da República](https://diariodarepublica.pt)
-- [360 Casas](https://36ocasas.pt)
+- [360 Casas](https://360casas.pt)
 - [Smile Up](https://smileup.pt)
 - [CP Yoga](https://cpyoga.com)
 - [Movilges](https://movilges.com)
@@ -15,14 +15,14 @@ Below is a list of websites I have worked on:
 - [Curajoy](https://curajoy.org)
 - [Viva Melhor](https://vivamelhor.pt)
 - [Casa da Moeda](https://casadamoeda.pt)
-- [Loja INCM](https://loja.incm.com)
+- [Loja INCM](https://loja.incm.pt)
 - [Isara Table](https://isaratable.com)
 - [ENSE-EPE](https://ense-epe.pt)
 - [Hospital Cruz Vermelha](https://hospitalcruzvermelha.pt)
-- [Hospital Fernando Fonseca](https://hff.min-saude.pt)
+- [Hospital Amadora/Sintra](https://hff.min-saude.pt)
 - [Movilges IT Consulting](https://movilges-itconsulting.com)
 - [Suittest](https://suittest.com)
-- [Fórum Saúde Séc. XXI](https://forumsaudesecxxi.pt)
+- [Fórum Saúde Séc. XXI]([https://forumsaudesecxxi.pt])
 - [Cascais International Health Forum](https://cascaisinternationalhealthforum.com)
 
 ---
