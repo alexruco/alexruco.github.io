@@ -33,4 +33,4 @@ If you'd like to connect or discuss potential projects, feel free to reach out.
 
 - **GitHub:** https://github.com/alexruco
 - **LinkedIn:** https://www.linkedin.com/in/alexandreruco/
-- **Email:** alex.ruco@pt
+- **Email:** alex@ruco.pt
