@@ -31,6 +31,6 @@ If you'd like to connect or discuss potential projects, feel free to reach out.
 
 **Contact:**
 
-- **GitHub:** https://github.com/alexruco
-- **LinkedIn:** https://www.linkedin.com/in/alexandreruco/
-- **Email:** alex@ruco.pt
+- **[GitHub:**](https://github.com/alexruco)
+- **[LinkedIn:**](https://www.linkedin.com/in/alexandreruco/)
+- **[Email:**](alex@ruco.pt)
