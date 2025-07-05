@@ -20,8 +20,8 @@ Below is a list of websites I have worked on:
 - [ENSE-EPE](https://ense-epe.pt)
 - [Hospital Cruz Vermelha](https://hospitalcruzvermelha.pt)
 - [Hospital Amadora/Sintra](https://hff.min-saude.pt)
-- [Movilges IT Consulting](https://movilges-itconsulting.com)
-- [suittest](https://suittest.com)
+-  <a href="https://movilges-itconsulting.com" rel="nofollow">Movilges IT Consulting</a>
+-  <a href="https://suittest.com" rel="nofollow">suittest</a>
 - [Fórum Saúde Séc. XXI](https://forumsaudexxi.pt/)
 - [Cascais International Health Forum](https://cascaisinternationalhealthforum.com)
 
